@@ -181,6 +181,9 @@ body::before {
   cursor: pointer;
   transition: all 0.2s;
 }
+.profile-card__actions > button a {
+  padding: 20px;
+}
 @media screen and (max-width: 768px) {
   .profile-card__actions > button {
     min-width: 170px;

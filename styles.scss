@@ -185,6 +185,9 @@ body {
             color: rgb(249, 255, 255);
             cursor: pointer;
             transition: all .2s;
+            a{
+                padding: 20px;
+            }
 
             @media screen and (max-width:768px) {
                 min-width: 170px;
